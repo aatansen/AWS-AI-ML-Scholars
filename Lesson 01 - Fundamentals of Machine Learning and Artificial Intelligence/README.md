@@ -370,7 +370,8 @@ AWS rapidly innovates across the AI and ML stack, offering comprehensive capabil
 
 ## ML frameworks
 
-- The ML frameworks layer plays a crucial role in the development and deployment of machine learning models. At the core of the frameworks layer is Amazon SageMaker AI. SageMaker AI offers the right tools to effectively build, train, and run LLMs and other FMs efficiently and cost effectively. Choose the following tab to learn more about this service.
+- The ML frameworks layer plays a crucial role in the development and deployment of machine learning models. At the core of the frameworks layer is Amazon SageMaker AI. SageMaker AI offers the right tools to effectively build, train, and run LLMs and other FMs efficiently and cost effectively.
+
 - **Amazon SageMaker AI:** With SageMaker AI, you can build, train, and deploy ML models for any use case with fully managed infrastructure, tools, and workflows. SageMaker AI removes the heavy lifting from each step of the ML process to make it easier to develop high-quality models. SageMaker AI provides all the components used for ML in a single toolset, so models get to production faster with much less effort and at lower cost.
 
 ---
