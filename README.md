@@ -16,3 +16,4 @@
 - [**Lesson 03 - Responsible Artificial Intelligence Practices**](./Lesson%2003%20-%20Responsible%20Artificial%20Intelligence%20Practices/README.md)
 - [**Lesson 04 - Developing Machine Learning Solutions**](./Lesson%2004%20-%20Developing%20Machine%20Learning%20Solutions/README.md)
 - [**Lesson 05 - Lesson 05 - Developing Generative AI Solutions**](./Lesson%2005%20-%20Developing%20Generative%20AI%20Solutions/README.md)
+- [**Lesson 06 - Optimizing Foundation Models**](./Lesson%2006%20-%20Optimizing%20Foundation%20Models/README.md)
