@@ -14,3 +14,4 @@
 - [**Lesson 01 - Fundamentals of Machine Learning and Artificial Intelligence**](./Lesson%2001%20-%20Fundamentals%20of%20Machine%20Learning%20and%20Artificial%20Intelligence/README.md)
 - [**Lesson 02 - Exploring Artificial Intelligence Use Cases and Applications**](./Lesson%2002%20-%20Exploring%20Artificial%20Intelligence%20Use%20Cases%20and%20Applications/README.md)
 - [**Lesson 03 - Responsible Artificial Intelligence Practices**](./Lesson%2003%20-%20Responsible%20Artificial%20Intelligence%20Practices/README.md)
+- [**Lesson 04 - Developing Machine Learning Solutions**](./Lesson%2004%20-%20Developing%20Machine%20Learning%20Solutions/README.md)
