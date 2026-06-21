@@ -60,11 +60,11 @@ The end-to-end machine learning lifecycle process includes the following phases:
 - Model monitoring
 - Model retraining
 
-The following illustration shows how the phases work together. To learn more, choose each of the numbered markers.
+The following illustration shows how the phases work together.
 
 ![phases](https://i.imgur.com/wbRQIvw.png)
 
-As a company follows these steps, it is necessary to have seamless collaboration among the diverse roles, such as product managers, developers, data scientists, and engineers. You will learn more about this concept in the MLOps section.
+As a company follows these steps, it is necessary to have seamless collaboration among the diverse roles, such as product managers, developers, data scientists, and engineers.
 
 ---
 [⬆️ Go to Context](#context)

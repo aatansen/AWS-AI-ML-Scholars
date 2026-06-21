@@ -369,9 +369,7 @@ Because BERTScore evaluates the semantic similarity rather than relying on exact
 BERTScore is increasingly used alongside traditional metrics like BLEU and ROUGE for a more comprehensive assessment of language generation models. This is especially true in cases where capturing the deeper semantic meaning of the text is important.
 
 ### AnyCompany model evaluation
-
-To learn more about how AnyCompany could use these metrics to evaluate the performance of its model, choose each hotspot.
-
+ 
 ![model evaluation](https://i.imgur.com/JX2k1cS.png)
 
 In addressing AnyCompany's challenges of high cart abandonment and low repeat purchases, the integration of an FM using generative AI has demonstrated substantial improvements in key business metrics. Post-implementation, the conversion rate increased by 15 percent, thanks to more engaging product descriptions. This enhancement was quantitatively supported by ROUGE scores averaging 0.85. This indicates a high overlap of generated content with reference material, ensuring completeness and relevance that directly encouraged purchases. The average order value saw a 20 percent uplift. This is influenced by the precision and accuracy of technical terms and persuasive language in product descriptions, validated by a BLEU scores of 0.78. These scores are considered good in this context, because they suggest a strong correspondence with the quality of language that historically leads to higher sales.
