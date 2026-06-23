@@ -5,7 +5,7 @@
     </a>
 </h1>
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Notes](https://img.shields.io/badge/Type-Personal%20Notes-green)
 ![AWS](https://img.shields.io/badge/AWS-AI%20%26%20ML%20Scholars-orange)
 
