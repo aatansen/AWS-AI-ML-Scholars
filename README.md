@@ -19,3 +19,4 @@
 - [**Lesson 06 - Optimizing Foundation Models**](./Lesson%2006%20-%20Optimizing%20Foundation%20Models/README.md)
 - [**Lesson 07 - Security, Compliance, and Governance for AI Solutions**](./Lesson%2007%20-%20Security,%20Compliance,%20and%20Governance%20for%20AI%20Solutions/README.md)
 - [**Lesson 08 - Essentials of Prompt Engineering**](./Lesson%2008%20-%20Essentials%20of%20Prompt%20Engineering/README.md)
+- [**Lesson 09 - PartyRock**](./Lesson%2009%20-%20PartyRock/README.md)
